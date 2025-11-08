@@ -1,7 +1,7 @@
-Typing Insight: Your Personal Communication Coach
+# Typing Insight: Your Personal Communication Coach
 
  
-What is Typing Insight?
+### What is Typing Insight?
 
 **Typing Insight** is a new feature for your smartphone keyboard that turns your daily typing into a **personal communication coach**. It silently analyzes your typing habits, phrases, and errors to give you a simple, weekly report on your communication style and efficiency.
 
@@ -32,3 +32,4 @@ The way we communicate online is often unconscious. We use the same phrases, mak
 
 
 **Core Technology:** The system leverages behavioral data that **modern keyboards already collect** (typing habits, phrases, and errors) and applies local processing to generate insights.
+
